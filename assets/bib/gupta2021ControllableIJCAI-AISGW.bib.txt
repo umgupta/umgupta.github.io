@@ -1,0 +1,6 @@
+@article{gupta2021ControllableIJCAI-AISGW,
+    author = "Gupta, Umang and Ferber, Aaron and Dilkina, Bistra and Ver Steeg, Greg",
+    title = "{Controllable Guarantees for Fair Outcomes via Contrastive Information Estimation}",
+    journal = "IJCAI AI for Social Good Workshop",
+    year = "2020"
+}

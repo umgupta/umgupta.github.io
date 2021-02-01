@@ -1,0 +1,6 @@
+@inproceedings{kamra2018AAAI,
+    author = "Kamra, Nitin and Gupta, Umang and Fang, Fei and Liu, Yan and Tambe, Milind",
+    title = "{Policy Learning for Continuous Space Security Games using Neural Networks}",
+    booktitle = "Thirty-Second AAAI Conference on Artificial Intelligence",
+    year = "2018"
+}

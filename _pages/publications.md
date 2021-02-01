@@ -1,16 +1,14 @@
 ---
-layout: archive
+# layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Conference Papers
+{%include_relative peer-reviewed.md %}
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Preprints, workshop and Others
+{%include_relative other_pubs.md %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Publications prior to 2017
+{%include_relative before_phd.md %}

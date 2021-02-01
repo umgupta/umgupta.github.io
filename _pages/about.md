@@ -20,7 +20,7 @@ Before that, I worked on finding optimal strategies for Stackelberg security gam
 ## News
 
 - [Jan 8, 2021] Our [work](/assets/papers/gupta2021ISBI.pdf) on improving brain age estimation got accepted to International Symposium on Biomedical Imaging.
-- [Dec 1, 2020] Our [work](https://arxiv.org/abs/2101.04108) on controlling fairness with contrastive estimators got accepted to AAAI-21. Watch the short explainer video on [youtube](https://youtu.be/f_paYisG3yo).
+- [Dec 1, 2020] Our [work](https://arxiv.org/abs/2101.04108) on controlling fairness with contrastive mutual information estimators got accepted to AAAI. Watch the short explainer video on [youtube](https://youtu.be/f_paYisG3yo).
 
 
 

@@ -26,7 +26,7 @@
 <div class= "paper">
 <div class="paper_title">Deep Fictitious Play for Games with Continuous Action Spaces</div>
 <div class="paper_authors">Nitin Kamra, <b>Umang Gupta</b>, Kai Wang, Fei Fang, Yan Liu, Milind Tambe</div>
-<ul>
+<p class='note'>We develop an approximate extension of fictitious play to two-player games with high-dimensional continuous action spaces.</p><ul>
  <li class="paper_venue_year">AAMAS'19</li>
 <li class="paper_bib"><a href="/assets/bib/kamra2019AAMAS.bib.txt">.bib</a></li>
 <li class="paper_link"><a href="https://dl.acm.org/doi/10.5555/3306127.3332004">link</a></li> </ul></div>

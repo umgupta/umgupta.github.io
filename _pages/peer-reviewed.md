@@ -26,7 +26,7 @@
 <div class= "paper">
 <div class="paper_title">Policy Learning for Continuous Space Security Games using Neural Networks</div>
 <div class="paper_authors">Nitin Kamra, <b>Umang Gupta</b>, Fei Fang, Yan Liu, Milind Tambe</div>
-<p class='note'>In this paper, we present OptFP, a novel and general algorithm that searches for optimal defender strategies and can also be used to learn policies over multiple game states simultaneously in Stackelberg security games with continuous action spaces. We demonstrate the potential to predict good defender strategies via experiments and analysis on discrete and continuous game settings.</p><ul>
+<p class='note'>In this paper, we present OptFP, a novel and general algorithm that searches for optimal defender strategies and can also learn policies over multiple game states simultaneously in Stackelberg security games with continuous action spaces. We demonstrate the potential to predict good defender strategies via experiments and analysis on discrete and continuous game settings.</p><ul>
  <li class="paper_venue_year">AAAI'18</li>
 <li class="paper_bib"><a href="/assets/bib/kamra2018AAAI.bib.txt">.bib</a></li>
 <li class="paper_link"><a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16525/15798">link</a></li> </ul></div>

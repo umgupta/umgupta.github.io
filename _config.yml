@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Umang Gupta"
   avatar           : "profile.jpg"
-  bio              : "PhD student at University of Southern California"
+  bio              : "<span>Ph.D. student</span> <br> <span>University of Southern California </span>"
   location         : "Los Angeles, California"
   employer         :
   pubmed           :

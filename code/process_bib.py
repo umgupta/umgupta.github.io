@@ -30,6 +30,7 @@ def database_to_textfile(database, fname):
 
         string += f'<div class= "paper">\n'
         string += f'<div class="paper_title">{entry.fields["title"].strip("{}")}</div>\n'
+        string += f"<div class='paper_details'>"
 
         string += f'<div class="paper_authors">'
         names = []
@@ -71,7 +72,7 @@ def database_to_textfile(database, fname):
 
         string+='</ul>'
 
-
+        string += "</div>"
         string += "</div>"
 
         string += "\n \n"

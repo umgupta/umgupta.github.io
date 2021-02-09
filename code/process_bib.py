@@ -52,8 +52,8 @@ def database_to_textfile(database, fname):
 
         string += f'<ul>'
         string += f'\n <li class="paper_venue_year">{entry.fields["venue"]}</li>\n'
-        if os.path.exists(f"assets/bib/{entry.key}.bib.txt"):
-            string += f'<li class="paper_bib"><a href="/assets/bib/{entry.key}.bib.txt">.bib</a></li>\n'
+        # if os.path.exists(f"assets/bib/{entry.key}.bib.txt"):
+        #     string += f'<li class="paper_bib"><a href="/assets/bib/{entry.key}.bib.txt">.bib</a></li>\n'
 
         if os.path.exists(f"assets/papers/{entry.key}.pdf"):
             string += f'<li class="paper_pdf"><a href="/assets/papers/{entry.key}.pdf" >PDF</a></li>\n'
@@ -63,6 +63,9 @@ def database_to_textfile(database, fname):
 
         if entry.fields.get("link"):
             string += f'<li class="paper_link"><a href="{entry.fields["link"]}">link</a></li> '
+
+        if entry.fields.get("arxiv"):
+            string += f'<li class="paper_arxiv"><a href="{entry.fields["arxiv"]}">arXiv</a></li> '
 
         if entry.fields.get("video"):
             string += f'<li class="paper_video"><a href="{entry.fields["video"]}">video</a></li>'

@@ -24,7 +24,7 @@ Before that, I worked on finding optimal strategies for Stackelberg security gam
 
 
 
-## Selected Publications
+## Selected Papers
 {% include_relative selected_publications.md %}
 
 

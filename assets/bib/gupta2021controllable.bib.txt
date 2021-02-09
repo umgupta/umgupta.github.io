@@ -1,0 +1,8 @@
+@article{gupta2021controllable,
+    author = "Gupta, Umang and Ferber, Aaron and Dilkina, Bistra and Steeg, Greg Ver",
+    title = "{Controllable Guarantees for Fair Outcomes via Contrastive Information Estimation}",
+    year = "2021",
+    eprint = "2101.04108",
+    archivePrefix = "arXiv",
+    primaryClass = "cs.LG"
+}

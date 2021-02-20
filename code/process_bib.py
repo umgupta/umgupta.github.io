@@ -70,6 +70,9 @@ def database_to_textfile(database, fname):
         if entry.fields.get("video"):
             string += f'<li class="paper_video"><a href="{entry.fields["video"]}">video</a></li>'
 
+        if entry.fields.get("blog"):
+            string += f'<li class="paper_blog"><a href="{entry.fields["blog"]}">blog</a></li>'
+
         if entry.fields.get("code"):
             string += f'<li class="paper_code"><a href="{entry.fields["code"]}">code</a></li>'
 

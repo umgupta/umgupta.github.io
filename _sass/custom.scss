@@ -2,6 +2,17 @@ p {
     text-align: justify;
 }
 
+.page__content{
+    a {
+        text-decoration: none;
+        border-bottom: 1px black dotted;
+    }
+    a:hover{
+        text-decoration: none;
+        border-bottom: 1px black double;
+    }
+}
+
 .greedy-nav .visible-links li:first-child a {
     font-weight: normal;
 }

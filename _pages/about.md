@@ -1,7 +1,7 @@
 ---
 permalink: /
 excerpt: "About me"
-title: About me
+title: About Me
 author_profile: true
 redirect_from:
   - /about/
@@ -19,7 +19,7 @@ Before that, I worked on finding optimal strategies for Stackelberg security gam
 
 ## News
 - [Feb 4, 2021] Our AAAI-21 work got featured in USC Viterbi School [News](https://viterbischool.usc.edu/news/2021/02/usc-at-aaai-21-algorithmic-fairness-electoral-college-strategy-de-biasing-machine-learning/).
-- [Jan 8, 2021] Our [work](/assets/papers/gupta2021ISBI.pdf) on improving brain age estimation got accepted to International Symposium on Biomedical Imaging.
+- [Jan 8, 2021] Our [work](https://arxiv.org/abs/2102.04438) on improving brain age estimation got accepted to International Symposium on Biomedical Imaging (ISBI), 2021.
 - [Dec 1, 2020] Our [work](https://arxiv.org/abs/2101.04108) on controlling fairness with contrastive mutual information estimators got accepted to AAAI. Watch the short explainer video on [youtube](https://youtu.be/f_paYisG3yo).
 
 

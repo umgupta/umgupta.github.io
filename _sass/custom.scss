@@ -11,6 +11,11 @@ p {
         text-decoration: none;
         border-bottom: 1px black double;
     }
+
+    h2 {
+        padding-bottom: 0.1em;
+        border-bottom: 1px solid darkslategray;
+    }
 }
 
 .greedy-nav .visible-links li:first-child a {
@@ -36,7 +41,7 @@ p {
 }
 
 html {
-    background-color: ghostwhite;
+    background-color: floralwhite;
 }
 
 footer {
@@ -45,7 +50,7 @@ footer {
 }
 
 .greedy-nav{
-    background-color: ghostwhite;
+    background-color: inherit;
     li a {
         color: inherit
     }
@@ -59,8 +64,8 @@ h2 {
 .paper {
     min-height: 100px;
     font-size: 16px;
-    padding-bottom: 30px;
-    // padding-left: 20px;
+    padding-bottom: 10px;
+    padding-top: 10px;
     .paper_details {
         padding-left: 20px;
     }

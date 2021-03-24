@@ -7,8 +7,8 @@ author_profile: true
 ## Conference Papers
 {%include_relative peer-reviewed.md %}
 
-## Preprints, workshop and Others
+## Preprints, Workshop and Others
 {%include_relative other_pubs.md %}
 
-## Publications prior to 2017
+## Publications Prior to 2017
 {%include_relative before_phd.md %}

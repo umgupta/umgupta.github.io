@@ -10,7 +10,7 @@
 <div class='paper_details'><div class="paper_authors"><b>Umang Gupta</b>, Pradeep K. Lam, Greg Ver Steeg, Paul M. Thompson</div>
 <p class='note'>We propose a new architecture for BrainAGE prediction, which works by encoding a single 2D slice in an MRI with a deep 2D-CNN model and combining the information from these 2D-slice encodings by using set networks or permutation invariant lay- ers. Experiments on the BrainAGE prediction problem, using the UK Biobank dataset showed that the model with the permutation invariant layers trains faster and provides better predictions compared to the other state-of-the-art approaches.</p><ul>
  <li class="paper_venue_year">ISBI'21</li>
-<li class="paper_arxiv"><a href="https://arxiv.org/abs/2101.04438">arXiv</a></li> <li class="paper_code"><a href="https://github.com/umgupta/2d-slice-set-networks-for-brain-age">code</a></li></ul></div></div>
+<li class="paper_arxiv"><a href="https://arxiv.org/abs/2102.04438">arXiv</a></li> <li class="paper_code"><a href="https://github.com/umgupta/2d-slice-set-networks-for-brain-age">code</a></li></ul></div></div>
  
 <div class= "paper">
 <div class="paper_title">DeepFP for Finding Nash Equilibrium in Continuous Action Spaces</div>

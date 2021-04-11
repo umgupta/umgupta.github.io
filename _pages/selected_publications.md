@@ -1,4 +1,11 @@
 <div class= "paper">
+<div class="paper_title">Membership Inference Attacks on Deep Regression Models for Neuroimaging</div>
+<div class='paper_details'><div class="paper_authors"><b>Umang Gupta</b>, Dimitris Stripelis, Pradeep K. Lam, Paul Thompson, Jose Luis Ambite, Greg Ver Steeg</div>
+<p class='note'>We illustrate that allowing access to parameters may leak private information about the dataset. In particular, we show that it is possible to infer if a sample was part of the training set used to train the model given only access to the model prediction (black-box) or access to the model itself (white-box) and some leaked samples from the training data distribution. Such attacks are commonly referred to as Membership Inference attacks. We show realistic Membership Inference attacks on deep learning models trained for brain age prediction in a centralized and decentralized setup. We further observed strong correlations between membership inference attack success and overfitting, an indication that we may be able to ensure privacy and prevent these attacks by reducing overfitting.</p><ul>
+ <li class="paper_venue_year">MIDL'21</li>
+<li class="paper_link"><a href="https://openreview.net/forum?id=8lL_y9n-CV">link</a></li> </ul></div></div>
+ 
+<div class= "paper">
 <div class="paper_title">Controllable Guarantees for Fair Outcomes via Contrastive Information Estimation</div>
 <div class='paper_details'><div class="paper_authors"><b>Umang Gupta</b>, Aaron Ferber, Bistra Dilkina, Greg Ver Steeg</div>
 <p class='note'>We propose a new representation learning algorithm to control parity of any decision algorithm. We theoretically establish that by limiting the mutual information between representations and protected attributes, we can assuredly limit the statistical parity of any classifier. We demonstrate an effective method for controlling fairness through mutual information based on contrastive information estimators and show that they outperform approaches that rely on variational bounds based on complex generative models.</p><ul>

@@ -1,0 +1,5 @@
+@article{gupta2021membership,
+    author = "Gupta, Umang and Stripelis, Dimitris and Lam, Pradeep K. and Thompson, Paul and Ambite, Jose Luis and Steeg, Greg Ver",
+    title = "{Membership Inference Attacks on Deep Regression Models for Neuroimaging}",
+    year = "2021"
+}

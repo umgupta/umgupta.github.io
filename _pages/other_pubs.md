@@ -3,14 +3,7 @@
 <div class='paper_details'><div class="paper_authors">Ninareh Mehrabi, <b>Umang Gupta</b>, Fred Morstatter, Greg Ver Steeg, Aram Galstyan</div>
 <p class='note'>We propose a classifier that uses attention mechanism to ensure fair outcomes while simultaneously providing feature attributions to account for how a decision was made.</p><ul>
  <li class="paper_venue_year">arXiv:2109.03952</li>
-<li class="paper_link"><a href="https://arxiv.org/2109.03952">link</a></li> </ul></div></div>
- 
-<div class= "paper">
-<div class="paper_title">Secure Neuroimaging Analysis using Federated Learning with Homomorphic Encryption</div>
-<div class='paper_details'><div class="paper_authors">Dimitris Stripelis, Hamza Saleem, Tanmay Ghai, Nikhil Dhinagar, <b>Umang Gupta</b>, Chrysovalantis Anastasiou, Greg Ver Steeg, Srivatsan Ravi, Muhammad Naveed, Paul M Thompson,  others</div>
-<p class='note'>We demonstrate a federated learning system with homomorphic encryption for neuroimaging applications.</p><ul>
- <li class="paper_venue_year">arXiv:2108.03437</li>
-<li class="paper_link"><a href="https://arxiv.org/2108.03437">link</a></li> </ul></div></div>
+<li class="paper_arxiv"><a href="https://arxiv.org/abs/2109.03952">arXiv</a></li> </ul></div></div>
  
 <div class= "paper">
 <div class="paper_title">Differentiable Optimal Adversaries for Learning Fair Representations</div>

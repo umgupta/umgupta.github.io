@@ -1,4 +1,11 @@
 <div class= "paper">
+<div class="paper_title">Secure neuroimaging analysis using federated learning with homomorphic encryption</div>
+<div class='paper_details'><div class="paper_authors">Dimitris Stripelis, Hamza Saleem, Tanmay Ghai, Nikhil Dhinagar, <b>Umang Gupta</b>, Chrysovalantis Anastasiou, Greg Ver Steeg, Srivatsan Ravi, Muhammad Naveed, Paul M. Thompson, Jose Luis Ambite</div>
+<p class='note'>We demonstrate a federated learning system with homomorphic encryption for neuroimaging applications.</p><ul>
+ <li class="paper_venue_year">SIPAIM'21</li>
+<li class="paper_link"><a href="http://dx.doi.org/10.1117/12.2606256">link</a></li> <li class="paper_arxiv"><a href="https://arxiv.org/abs/arXiv:2108.03437">arXiv</a></li> </ul></div></div>
+ 
+<div class= "paper">
 <div class="paper_title">Membership Inference Attacks on Deep Regression Models for Neuroimaging</div>
 <div class='paper_details'><div class="paper_authors"><b>Umang Gupta</b>, Dimitris Stripelis, Pradeep K. Lam, Paul Thompson, Jose Luis Ambite, Greg Ver Steeg</div>
 <p class='note'>We illustrate that allowing access to parameters may leak private information about the dataset. In particular, we show that it is possible to infer if a sample was part of the training set used to train the model given only access to the model prediction (black-box) or access to the model itself (white-box) and some leaked samples from the training data distribution. Such attacks are commonly referred to as Membership Inference attacks. We show realistic Membership Inference attacks on deep learning models trained for brain age prediction in a centralized and decentralized setup. We further observed strong correlations between membership inference attack success and overfitting, an indication that we may be able to ensure privacy and prevent these attacks by reducing overfitting.</p><ul>

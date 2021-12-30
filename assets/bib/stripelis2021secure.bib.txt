@@ -1,0 +1,13 @@
+@inproceedings{stripelis2021secure,
+    author = "Stripelis, Dimitris and Saleem, Hamza and Ghai, Tanmay and Dhinagar, Nikhil and Gupta, Umang and Anastasiou, Chrysovalantis and Steeg, Greg Ver and Ravi, Srivatsan and Naveed, Muhammad and Thompson, Paul M. and Ambite, Jose Luis",
+    editor = "Rittner, Letícia and M.D., Eduardo Romero Castro and Lepore, Natasha and Brieva, Jorge and Linguraru, Marius George and Walker, Adam",
+    title = "{Secure neuroimaging analysis using federated learning with homomorphic encryption}",
+    volume = "12088",
+    booktitle = "17th International Symposium on Medical Information Processing and Analysis",
+    organization = "International Society for Optics and Photonics",
+    publisher = "SPIE",
+    pages = "351 -- 359",
+    year = "2021",
+    doi = "10.1117/12.2606256",
+    URL = "https://doi.org/10.1117/12.2606256"
+}

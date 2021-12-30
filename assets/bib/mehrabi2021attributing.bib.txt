@@ -1,0 +1,7 @@
+@article{mehrabi2021attributing,
+    author = "Mehrabi, Ninareh and Gupta, Umang and Morstatter, Fred and Steeg, Greg Ver and Galstyan, Aram",
+    title = "Attributing Fair Decisions with Attention Interventions",
+    year = "2021",
+    journal = "arXiv preprint arXiv:2109.03952",
+    keyword = "preprint"
+}

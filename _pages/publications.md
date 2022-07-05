@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+This list may be outdated, please see [CV](../../../assets/files/umang_cv.pdf) for the updated list.
+
 ## Conference Papers
 {%include_relative peer-reviewed.md %}
 

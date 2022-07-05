@@ -12,8 +12,17 @@ redirect_from:
   <link rel="stylesheet" href="/assets/css/custom.css">
 </head> -->
 
+I am a fourth-year Ph.D. student at the University of Southern California advised by [Prof. Greg Ver Steeg](https://www.isi.edu/people/gregv/about). Broadly, I am interested in unsupervised learning, representation learning, and using machine learning for scientific advancement. More recently, I have been working on fairness
+  ([1](https://arxiv.org/abs/2101.04108),
+  [2](https://arxiv.org/abs/2203.12574),
+  [3](https://arxiv.org/abs/2109.03952))
+and privacy
+  ([4](https://arxiv.org/abs/2105.02866),
+  [5](https://arxiv.org/abs/2205.05249))
+  problems in machine learning and federated learning
+  ([6](https://arxiv.org/abs/2204.12430)).
 
-I am a fourth-year Ph.D. student at the University of Southern California advised by [Prof. Greg Ver Steeg](https://www.isi.edu/people/gregv/about). Broadly, I am interested in unsupervised learning, representation learning, and using machine learning for scientific advancement. Recently, I have been working on controlling information in activations and weights of the neural networks.
+<!-- I am a fourth-year Ph.D. student at the University of Southern California advised by [Prof. Greg Ver Steeg](https://www.isi.edu/people/gregv/about). Broadly, I am interested in unsupervised learning, representation learning, and using machine learning for scientific advancement. Recently, I have been working on controlling information in activations and weights of the neural networks. -->
 
 Before that, I worked on finding optimal strategies for Stackelberg security games with deep reinforcement learning and solving catastrophic forgetting in neural networks. Before coming to USC, I spent two years at Visa Inc., Bangalore, employed as a Sr. software developer, and five wonderful years at IIT Delhi, concluding with a Dual Degree (B.Tech and M.Tech) in Electrical Engineering.
 

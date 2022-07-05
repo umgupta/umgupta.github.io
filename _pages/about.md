@@ -12,7 +12,7 @@ redirect_from:
   <link rel="stylesheet" href="/assets/css/custom.css">
 </head> -->
 
-I am a fourth-year Ph.D. student at the University of Southern California advised by [Prof. Greg Ver Steeg](https://www.isi.edu/people/gregv/about). Broadly, I am interested in unsupervised learning, representation learning, and using machine learning for scientific advancement. More recently, I have been working on fairness
+I am a Ph.D. student at the University of Southern California advised by [Prof. Greg Ver Steeg](https://www.isi.edu/people/gregv/about). Broadly, I am interested in unsupervised learning, representation learning, and using machine learning for scientific advancement. More recently, I have been working on fairness
   ([1](https://arxiv.org/abs/2101.04108),
   [2](https://arxiv.org/abs/2203.12574),
   [3](https://arxiv.org/abs/2109.03952))

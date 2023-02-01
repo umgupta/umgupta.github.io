@@ -14,7 +14,7 @@ and privacy
   problems in machine learning and federated learning
   ([6](https://arxiv.org/abs/2204.12430)).
 
-Before that, I worked on finding optimal strategies for Stackelberg security games with deep reinforcement learning and solving catastrophic forgetting in neural networks. Before coming to USC, I spent two years at Visa Inc., Bangalore, employed as a Sr. software developer, and five wonderful years at IIT Delhi, concluding with a Dual Degree (B.Tech and M.Tech) in Electrical Engineering.
+Before that, I worked on finding optimal strategies for Stackelberg security games with deep reinforcement learning and solving catastrophic forgetting in neural networks. Before coming to USC, I spent two years at Visa Inc., Bangalore, employed as a senior software developer, and five wonderful years at IIT Delhi, concluding with a Dual Degree (B.Tech and M.Tech) in Electrical Engineering.
   
 
 ## Research Interests

@@ -23,7 +23,7 @@ Before coming to USC, I spent two years at Visa Inc., Bangalore, as a senior sof
 - **Applications:** Natural Language Processing, Neuroimaging
 
 ## Highlights
-- [Nov 2023] Stoked to start as a research engineer @ Google Gemini. 
+- [Nov 2023] Stoked to announce that I am starting as a research engineer @ Google Gemini. 
 - [Aug 2023] Thesis defended!!! Graduating from USC with a Ph.D. in Computer Science.  
 - [Aug 2023] Surpassed 15 K reputation on [StackOverflow](https://stackoverflow.com/users/3236925/umang-gupta) & more than 1000 score for PyTorch tag.
 - [Aug 2023] Attending KDD and presenting [VQ-TR paper]((https://kdd-milets.github.io/milets2023/#papers)) at the **KDD-MILETS workshop**. 
